@@ -3,8 +3,11 @@ In this course I learned how to use table joins and relational set theory on joi
 
 ## Course Chapters
 - **Chapter 1: Introducing Inner Joins:** In this chapter, I have learned the concept of joining tables and explored all the ways to enrich queries using joins—beginning with inner joins.
+
 - **Chapter 2: Outer Joins, Cross Joins and Self Joins:** Came to grips with different kinds of outer joins. Learned about cross joins. Finally, I have learn about situations in which I might join a table with itself.
+
 - **Chapter 3: Set Theory for SQL Joins:** In this chapter, I have learned about using set theory operations in SQL, with an introduction to UNION, UNION ALL, INTERSECT, and EXCEPT clauses. I have explored the predominant ways in which set theory operations differ from join operations.
+
 - **Chapter 4: Subqueries:** In this closing chapter, I began by investigating semi-joins and anti-joins. I have also learned how to use nested queries. Wrapped up the course with some challenges...
 
 ## Statement of Accomplishment
